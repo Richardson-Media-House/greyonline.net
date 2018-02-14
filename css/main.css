@@ -1,0 +1,16 @@
+.jumbotron div h1 {
+	font-family: 'Press Start 2P';
+}
+.jumbotron div img {
+	max-width: 100%;
+}
+
+.jumbotron div img, .jumbotron div h1, .jumbotron div h2, .jumbotron div a {
+	opacity: 0;
+}
+footer .sociconcontainer{
+	font-size: 25px;
+}
+footer a {
+	color: #d62c1a;
+}
